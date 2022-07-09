@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Gantari:ital,wght@0,300;1,200&family=Montserrat:wght@200&family=Smooch&display=swap');*{
+    padding: 0;
+    margin: 0%;
+}
+body{
+
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(192, 188, 188);
+}
+
+
+
+#list{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    padding-top: 10%;
+    padding-left: 20vh;
+    padding-right: 20vh;
+
+
+}
+#div1comp{
+    display: flex;
+    margin-left: 10vh;
+    background-color: white;
+    }
+#div1comp img{
+
+   text-align: right;
+
+}
+
+li{
+
+    padding: 10px;
+}
+#titleDescription{
+
+    opacity: 50%;
+
+}
+div{
+
+    padding: 3vh;
+}
+
+#ourWork{
+
+    text-align: center;
+    
+    padding-bottom: 2vh;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: white;
+    background-color:rgb(83, 83, 83); 
+}
+#Ou{
+    width: 62.47vw;
+    padding-left: 4vh;
+
+}
+#firstImageName{
+
+   
+    text-align: center;
+    padding-bottom: 2vh;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: white;
+    background-color:rgb(83, 83, 83); 
+    
+}
+#fra{
+
+    width: 62.47vw;
+    padding-left: 4vh;
+
+}
+#secondImageName{
+    text-align: center;
+    padding-bottom: 2vh;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: white;
+    background-color:rgb(83, 83, 83); 
+}
+#bul{
+
+    width: 62.47vw;
+    padding-left: 4vh;
+}
+#thirdImageName{
+
+    text-align: center;
+    padding-bottom: 2vh;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: white;
+    background-color:rgb(83, 83, 83); 
+
+}
+
+#viewWork{
+
+    text-decoration: none;
+    border: 0.1vh solid black;
+    padding: 0.4vh;
+    border-radius: 0.7vh ;
+    border-style:ridge;
+    font-weight: bolder;
+    color: white;
+    background-color: black;
+}
